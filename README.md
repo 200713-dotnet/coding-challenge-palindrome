@@ -11,7 +11,7 @@ Using this template, complete the challenge knowing that the following must be t
 - only use C# and System namespaces
 - should be able to test words, phrases with special characters, alphanumeric entries
 - should be completed in 45 mins
-- complete all code necessary references
+- complete all necessary project and soltuion references
 - add the correct gitignore file
 - no new projects are needed to complete successfully
 - can use the internet, notes except each other or friends/family

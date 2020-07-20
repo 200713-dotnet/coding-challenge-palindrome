@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "c+V5eCfjQ8gA76pQYjFf0sO0SnfddKTP6jjcehnIBejXeDPYC/fHb5MoDLeu4bqKVIZHXqiVhQ0x49Vw2HnKiQ==",
+  "dgSpecHash": "Wg7yfBk0N9nPyTzclzmCAs0UIWscf6tGieiYNakJ8ejU6mSJ6g7V4RF+nnz4Ffv7jkUO7uMzcQz7pX0VL4RjqQ==",
   "success": true,
   "projectFilePath": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Testing/Palindrome.Testing.csproj",
   "expectedPackageFiles": [
